@@ -1,0 +1,20 @@
+begin
+new function:
+	while True:
+		try:
+			input X
+		except:
+			False
+		else:
+			break
+	return x
+A=new function()
+B=new function()
+A=new function()
+if (A<B) and (B<C):
+    print("A<B<C")
+elseif (A>B) and (B>C):
+    print("A>B>C")
+else:
+    print("Нет, ни одно из условий (A<B<C или A>B>C) не выполняется")
+end	
